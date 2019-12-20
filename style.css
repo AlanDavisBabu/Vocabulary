@@ -1,0 +1,20 @@
+#word{
+    font-size: 28px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+.pronouncationBox{
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #70757A;
+}
+#meaning{
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+#example{
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    color: #70757A;
+}
